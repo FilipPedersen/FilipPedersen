@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Software Engineer having fun with Angular, Next, Typescript, Tailwind and Prisma
+Software Engineer having fun with Angular, Next, Nest, Typescript, Tailwind and Prisma
 <!--
 **FilipPedersen/FilipPedersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
